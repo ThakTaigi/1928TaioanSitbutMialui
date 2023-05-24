@@ -9,7 +9,7 @@ title: 目錄
 ## Bo̍k-lio̍k 目錄
 - [正誤表](./chheh/?page=3){:target="_blank"}
 - [目次](./chheh/?page=6){:target="_blank"}
-- [作者序（英語）](./chheh/?page=8){:target="_blank"}
+- [Author's Preface（作者序）](./chheh/?page=8){:target="_blank"}
 - [序](./chheh/?page=11){:target="_blank"}
 - [序](./chheh/?page=12){:target="_blank"}
 - [序](./chheh/?page=14){:target="_blank"}
